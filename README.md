@@ -6,7 +6,7 @@
 <h3 align="center">A passionate Web Developer from Nepal</h3>
 
 <img align='right' width="400" height="300" alt='coding' src='https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif' >
-<img align='left' width='300' height='300' src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif"width="900"/>
+<img align='left' width='350' height='300' src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif"width="900"/>
 
 
 
